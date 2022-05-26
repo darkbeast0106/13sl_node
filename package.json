@@ -9,6 +9,7 @@
   "author": "petrik",
   "license": "ISC",
   "devDependencies": {
+    "@faker-js/faker": "^7.1.0",
     "sequelize-cli": "^6.4.1"
   },
   "dependencies": {
