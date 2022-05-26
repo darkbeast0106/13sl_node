@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "webserver": "node ./src/webserver/index.js",
+    "calculator": "node ./src/calculator/konzol.js",
+    "readfile": "node ./src/calculator/szovegfajl.js"
   },
   "author": "petrik",
   "license": "ISC",
